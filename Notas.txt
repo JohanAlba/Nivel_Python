@@ -1,0 +1,6 @@
+utilizar la ia para preguntar,
+-por que me quedo mal el codigo mas no que me lo corrija
+-preguntarle y pedirle ejercicios sin que me de la respuesta
+-que la ia actue como un senior
+-que me critique y me diga en puedo mejorar
+aprende aleer errores a debugear a leer logs
