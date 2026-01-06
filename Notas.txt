@@ -8,3 +8,6 @@ utilizar la ia para preguntar,
 ATAJOS:
 -COMAND + J ABRIR TERMINAL
 -python3  + nombre del archivo ejecuta codigo en bash
+---------------------------------------DAY 2-----------------------------------------------
+1-el ptimer reto se realizo de manera satissfactoria y la parte extra no
+2-set no permite duplicados
