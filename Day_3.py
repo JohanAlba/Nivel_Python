@@ -50,10 +50,12 @@ Retorne el resultado o un mensaje de error apropiado'''
 def dividir (a,b):
     try :
         total = a/b
+        
     except ZeroDivisionError:
-        if b == 0:
+            
             return'b es = 0 '
     except TypeError:
+
         return 'No son numero'
     return total
 # Ejemplos de uso:
