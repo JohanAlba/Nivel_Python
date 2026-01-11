@@ -14,7 +14,7 @@ Maneje posibles errores '''
 # Ejemplo de uso:
 
 # 1. Primero crea un archivo de prueba
-escribir_resultado = "Andre me maltrata y me patelea pero yo asi la amo"
+escribir_resultado = "python es genial "
 
 # 2. Luego cuenta las palabras
 #print(contar_palabras_archivo("prueba.txt"))  # 5
@@ -24,8 +24,7 @@ escribir_resultado = "Andre me maltrata y me patelea pero yo asi la amo"
 def crear_Archivo(texto:str):
     with open("PRUEBA.txt", 'w') as archivo:
         archivo.write(texto)
-    return archivo
-#rear_Archivo(escribir_resultado)
+crear_Archivo(escribir_resultado)
 
 def leer_archivo(archivo:str):
     try :
